@@ -11,3 +11,8 @@ Designed to highlight bakery products, share the story of the brand, display the
 - Clean, semantic HTML and organized CSS for better readability and maintenance.
 - Easy customization for text, images, colors, and overall style.
 - Perfect for portfolio presentation or as a base template for small business websites.
+
+- ## 🌐 Live Demo
+
+Check out the live version of this project here:  
+👉 [**Live Demo**](https://islamelsaedy616.github.io/Family-bakery-website/)
